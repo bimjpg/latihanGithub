@@ -1,2 +1,2 @@
-# latihanGithub
+# exploreGithub
 Latihan
