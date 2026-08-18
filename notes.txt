@@ -9,4 +9,8 @@ Commit ke-3 untuk push ke Github
 
 Ini adalah perubahan untuk latihan push ke GitHub.
 
+<<<<<<< HEAD
 Commit ke-4 untuk push ke github
+=======
+Ini adalah perubahan untuk latihan push dari repository lokal.
+>>>>>>> ca08cec505b6653f8491dc34fe7fdc5195de1976
