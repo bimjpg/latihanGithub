@@ -8,3 +8,5 @@ Commit Ke -2 Untuk Fetch dan Pull
 Commit ke-3 untuk push ke Github
 
 Ini adalah perubahan untuk latihan push ke GitHub.
+
+Ini adalah perubahan untuk latihan push dari repository lokal.
