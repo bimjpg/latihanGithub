@@ -1,2 +1,2 @@
 # exploreGithub
-Latihan
+Latihan eksplor
